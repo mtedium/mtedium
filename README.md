@@ -14,9 +14,13 @@ Full-stack developer with a focus on frontend development.
 
 [![React, Vue, Nuxt, Tailwind CSS, Sass, Three.js, Vite, Electron](https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind,sass,threejs,vite,electron&perline=8)](https://skillicons.dev)
 
-### Backend & Tools
+### Backend
 
-[![Django, Flask, MySQL, SQLite, Prisma, Node.js, Bun, Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=django,flask,mysql,sqlite,prisma,nodejs,bun,docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
+[![Django, Flask, MySQL, SQLite, Prisma, Node.js, Bun](https://skillicons.dev/icons?i=django,flask,mysql,sqlite,prisma,nodejs,bun&perline=8)](https://skillicons.dev)
+
+### Tools
+
+[![Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
 
 ## AI-Assisted Development
 
