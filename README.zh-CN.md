@@ -16,11 +16,11 @@
 
 ### 后端
 
-[![Django, Flask, MySQL, SQLite, Prisma, Node.js, Bun](https://skillicons.dev/icons?i=django,flask,mysql,sqlite,prisma,nodejs,bun&perline=8)](https://skillicons.dev)
+[![Django, MySQL, SQLite, Prisma](https://skillicons.dev/icons?i=django,mysql,sqlite,prisma&perline=8)](https://skillicons.dev)
 
-### 工具
+### 工具与运行时
 
-[![Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
+[![Node.js, Bun, Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=nodejs,bun,docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
 
 ## AI 协作开发
 

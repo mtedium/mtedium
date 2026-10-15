@@ -16,11 +16,11 @@ Full-stack developer with a focus on frontend development.
 
 ### Backend
 
-[![Django, Flask, MySQL, SQLite, Prisma, Node.js, Bun](https://skillicons.dev/icons?i=django,flask,mysql,sqlite,prisma,nodejs,bun&perline=8)](https://skillicons.dev)
+[![Django, MySQL, SQLite, Prisma](https://skillicons.dev/icons?i=django,mysql,sqlite,prisma&perline=8)](https://skillicons.dev)
 
-### Tools
+### Tools & Runtimes
 
-[![Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
+[![Node.js, Bun, Docker, Ubuntu, Nginx, Git, Figma](https://skillicons.dev/icons?i=nodejs,bun,docker,ubuntu,nginx,git,figma&perline=8)](https://skillicons.dev)
 
 ## AI-Assisted Development
 
